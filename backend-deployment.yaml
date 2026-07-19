@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: goo-backend
-        image: vasanth0711/goo-backend:latest
+        image: vasanth0711/goo-backend:31
         ports:
         - containerPort: 5000
         env:

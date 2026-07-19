@@ -1,0 +1,1 @@
+# goo-k8s-manifests

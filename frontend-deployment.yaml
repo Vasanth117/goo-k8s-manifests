@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: goo-frontend
-        image: yourusername/goo-frontend:latest
+        image: vasanth0711/goo-frontend:latest
         ports:
         - containerPort: 80
         resources:
